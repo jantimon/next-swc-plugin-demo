@@ -1,0 +1,1 @@
+# NextJs demo of the css-variable SWC WASM plugin

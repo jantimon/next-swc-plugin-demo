@@ -1,0 +1,22 @@
+{
+  "name": "next-swc-plugin-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "css-variable": "3.6.2",
+    "next": "12.1.7-canary.31",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.35",
+    "@types/react": "18.0.9",
+    "@types/react-dom": "18.0.4",
+    "typescript": "4.6.4"
+  }
+}
